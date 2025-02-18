@@ -10,4 +10,5 @@
 
 ## Guía
 [Instalación Plex](guia_instalacion.md)
+
 [Reguistro de  Plex](guia_registro.md)
