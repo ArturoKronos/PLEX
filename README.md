@@ -8,5 +8,5 @@
 ## Donde lo usaremos 
 **Ubuntu22.04**
 
-
+## Guía
 [Instalación Plex](guia_instalacion.md)
