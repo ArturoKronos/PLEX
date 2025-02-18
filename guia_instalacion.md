@@ -13,3 +13,13 @@ Ejecuta un actualización del sistema para que reconozca el nuevo repositorio:
 ```
 sudo apt update
 ```
+## Comando para Instalar Plex en Ubuntu 22.04 Server
+Una vez que tenemos todo preparado, instalar el servidor Plex es muy sencillo utilizando el gestor de paquetes APT. Aquí te muestro el comando:
+```
+sudo apt install plexmediaserver
+```
+## Verificar la Instalación
+Asegúrate de que Plex se está ejecutando:
+```
+systemctl status plexmediaserver
+```
